@@ -1,17 +1,21 @@
 {
-	"headline": "Our Approach",
+	"headline": "Características",
 	"tab": [
 		{
 			"title": {
-				"text": "Research"
+				"text": "Mecanimos Frog"
 			},
 			"open": true,
 			"content": {
-				"headline": "Research & Analytics",
-				"text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam consequuntur corporis reprehenderit repudiandae eveniet animi recusandae! Architecto, sequi explicabo, dignissimos id minima perspiciatis accusamus sapiente dolores voluptas magnam suscipit. Quo!",
+				"headline": "Mecanimos Frog",
+				"text": "A exclusividade de poder travar em qualquer ângulo
+O mecanismo frog, proporciona a mesma sensação
+ que as clássicas poltronas de avô dão, onde você 
+sente o seu corpo totalmente em repouso sem forçar a 
+musulatura para atingir a posição ideal e mais confortável.",
 				"url": "#",
 				"destination": "Details",
-				"image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1457119/undraw_research.svg"
+				"image": "https://imgur.com/a/rNzH9ou"
 			}
 		},
 		{
